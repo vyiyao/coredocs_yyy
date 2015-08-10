@@ -10,7 +10,7 @@ Start contributing to .NET Core documentation using the following steps:
 
 1. Clone the repo:
    ```
-   git clone https://github.com/openpublish/demo.git
+   git clone https://github.com/openpublish/coredocs.git
    ```
 
 2. Edit the Markdown files using your favorite Markdown editor.
