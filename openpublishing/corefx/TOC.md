@@ -3,7 +3,7 @@
 ## [Installing .NET Core on Windows](installing-core-windows.md)
 ## [Installing .NET Core on Linux](installing-core-linux.md)
 ## [Installing .NET Core on OSX](installing-core-osx.md)
-# [.NET Editions overview](overview.md)
+## [.NET Editions overview](getting-started/overview.md)
 # [.NET Primer](primer.md)
 ## [What is "managed code"?](managed-code.md)
 ## [.NET Assembly File Format](assembly-format.md)

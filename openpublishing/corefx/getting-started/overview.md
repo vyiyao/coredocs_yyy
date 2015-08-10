@@ -19,7 +19,8 @@ There are several reasons why we built .NET Core.
 **Cross-platform support** is a requirement of many developers today.
 It's important to use the platform that has the characteristics required
 by the application, which, in turn, can run on the platform required by
-users or perhaps is prescribed by corporate policy.
+users or perhaps is prescribed by corporate policy. For all of these, we
+need a cross-platform runtime. 
 
 **Open Source** because it has proven to be the best possible way to
 enable a larger set of platforms, supported by community contribution.
