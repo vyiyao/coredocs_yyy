@@ -6,7 +6,7 @@ This is the repository of .NET Core documentation powered by MSDN Open Publishin
 Quick Start
 -----------
 
-Start contributing to .NET Core documentation using the following steps:
+Start contributing to .NET Core documentation using the following steps 123:
 
 1. Clone the repo:
    ```
