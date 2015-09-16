@@ -1,7 +1,7 @@
 Installing .NET Core on OS X
 ============================
 
-By Zlatko Knezevic
+By Shuaiyi Wu
 
 These instructions will lead you through acquiring the .NET Core DNX SDK
 via the [.NET Version Manager (DNVM)](https://github.com/aspnet/dnvm)
